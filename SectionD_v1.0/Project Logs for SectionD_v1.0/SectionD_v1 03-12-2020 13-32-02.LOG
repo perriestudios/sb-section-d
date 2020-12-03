@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+3V3 Pin=J9-1
+Removed Pin From Net: NetName=+3V3 Pin=J10-1
+Removed Pin From Net: NetName=+3V3 Pin=J11-1
+Removed Pin From Net: NetName=+3V3 Pin=J14-1
+Removed Pin From Net: NetName=+3V3 Pin=J15-1
+Removed Pin From Net: NetName=+3V3 Pin=J16-1
+Removed Member From Class: ClassName=SectionD_v1.0 Member=J8
+Removed Member From Class: ClassName=SectionD_v1.0 Member=J9
+Removed Member From Class: ClassName=SectionD_v1.0 Member=J10
+Removed Member From Class: ClassName=SectionD_v1.0 Member=J11
+Removed Member From Class: ClassName=SectionD_v1.0 Member=J14
+Removed Member From Class: ClassName=SectionD_v1.0 Member=J15
+Removed Member From Class: ClassName=SectionD_v1.0 Member=J16
+Added Pin To Net: NetName=NetU6_2 Pin=U6-2
+Added Pin To Net: NetName=NetU6_2 Pin=U6-4
+Added Net: Name=NetU6_2
+Added Room: Name=SectionD_v1.0
